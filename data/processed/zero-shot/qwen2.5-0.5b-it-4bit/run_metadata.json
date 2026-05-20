@@ -1,0 +1,9 @@
+{
+  "mode": "zero-shot",
+  "slug": "qwen2.5-0.5b-it-4bit",
+  "model_id": "mlx-community/Qwen2.5-0.5B-Instruct-4bit",
+  "test_samples_requested": 370,
+  "results_file": "/Documents/slm-nes/aibox-nes-slms/data/processed/zero-shot/qwen2.5-0.5b-it-4bit/test_results.jsonl",
+  "metrics_file": "/Documents/slm-nes/aibox-nes-slms/data/processed/zero-shot/qwen2.5-0.5b-it-4bit/evaluation_metrics.json",
+  "elapsed_seconds": 170.257
+}

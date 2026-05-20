@@ -1,0 +1,9 @@
+{
+  "mode": "zero-shot",
+  "slug": "smol-lm-360m-it",
+  "model_id": "mlx-community/SmolLM-360M-Instruct",
+  "test_samples_requested": 370,
+  "results_file": "/Documents/slm-nes/aibox-nes-slms/data/processed/zero-shot/smol-lm-360m-it/test_results.jsonl",
+  "metrics_file": "/Documents/slm-nes/aibox-nes-slms/data/processed/zero-shot/smol-lm-360m-it/evaluation_metrics.json",
+  "elapsed_seconds": 30.681
+}

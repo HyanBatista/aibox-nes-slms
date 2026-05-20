@@ -1,0 +1,228 @@
+{
+  "total_samples": 370,
+  "valid_samples": 318,
+  "parsing_errors": 52,
+  "valid_output_rate": 0.8594594594594595,
+  "competencies": {
+    "formal_register": {
+      "accuracy": 0.02830188679245283,
+      "precision": 0.000800996796012816,
+      "recall": 0.02830188679245283,
+      "f1_score": 0.0015579020252726328,
+      "exact_match_rate": 0.02830188679245283,
+      "off_by_one_rate": 0.18238993710691823,
+      "end_to_end_accuracy": 0.024324324324324326,
+      "end_to_end_precision": 0.0006884242733299338,
+      "end_to_end_recall": 0.024324324324324326,
+      "end_to_end_f1_score": 0.0013389536325316143,
+      "end_to_end_exact_match_rate": 0.024324324324324326,
+      "end_to_end_off_by_one_rate": 0.15675675675675677,
+      "confusion_matrix": [
+        [
+          9,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          49,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          213,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          44,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "thematic_coherence": {
+      "accuracy": 0.29559748427672955,
+      "precision": 0.08737787271073137,
+      "recall": 0.29559748427672955,
+      "f1_score": 0.13488428894180862,
+      "exact_match_rate": 0.29559748427672955,
+      "off_by_one_rate": 0.5251572327044025,
+      "end_to_end_accuracy": 0.25405405405405407,
+      "end_to_end_precision": 0.07509773924868264,
+      "end_to_end_recall": 0.25405405405405407,
+      "end_to_end_f1_score": 0.11592757806350039,
+      "end_to_end_exact_match_rate": 0.25405405405405407,
+      "end_to_end_off_by_one_rate": 0.45135135135135135,
+      "confusion_matrix": [
+        [
+          94,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          73,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          134,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          13,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "narrative_rhetorical_structure": {
+      "accuracy": 0.0220125786163522,
+      "precision": 0.0004845536173410861,
+      "recall": 0.0220125786163522,
+      "f1_score": 0.0009482341557813253,
+      "exact_match_rate": 0.0220125786163522,
+      "off_by_one_rate": 0.059748427672955975,
+      "end_to_end_accuracy": 0.018918918918918916,
+      "end_to_end_precision": 0.00041645419003909565,
+      "end_to_end_recall": 0.018918918918918916,
+      "end_to_end_f1_score": 0.0008149688149688147,
+      "end_to_end_exact_match_rate": 0.01891891891891892,
+      "end_to_end_off_by_one_rate": 0.051351351351351354,
+      "confusion_matrix": [
+        [
+          7,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          12,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          48,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          207,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          44,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "cohesion": {
+      "accuracy": 0.03459119496855346,
+      "precision": 0.001196550769352478,
+      "recall": 0.03459119496855346,
+      "f1_score": 0.0023130890252528145,
+      "exact_match_rate": 0.03459119496855346,
+      "off_by_one_rate": 0.18553459119496854,
+      "end_to_end_accuracy": 0.029729729729729728,
+      "end_to_end_precision": 0.001028386877443481,
+      "end_to_end_recall": 0.029729729729729728,
+      "end_to_end_f1_score": 0.001988006243325392,
+      "end_to_end_exact_match_rate": 0.02972972972972973,
+      "end_to_end_off_by_one_rate": 0.15945945945945947,
+      "confusion_matrix": [
+        [
+          11,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          48,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          218,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          33,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          8,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    }
+  },
+  "overall": {
+    "accuracy": 0.09512578616352202,
+    "precision": 0.009048915193228117,
+    "recall": 0.09512578616352202,
+    "f1_score": 0.016525800611322562,
+    "exact_match_rate": 0.09512578616352202,
+    "off_by_one_rate": 0.23820754716981132
+  },
+  "end_to_end": {
+    "accuracy": 0.08175675675675677,
+    "precision": 0.0077771757606663276,
+    "recall": 0.08175675675675677,
+    "f1_score": 0.014203255660542095,
+    "exact_match_rate": 0.08175675675675675,
+    "off_by_one_rate": 0.20472972972972972
+  }
+}

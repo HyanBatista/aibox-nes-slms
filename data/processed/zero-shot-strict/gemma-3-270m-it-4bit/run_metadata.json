@@ -1,0 +1,10 @@
+{
+  "mode": "zero-shot",
+  "prompt_mode": "strict",
+  "slug": "gemma-3-270m-it-4bit",
+  "model_id": "mlx-community/gemma-3-270m-it-4bit",
+  "test_samples_requested": 370,
+  "results_file": "/Documents/slm-nes/aibox-nes-slms/data/processed/zero-shot-strict/gemma-3-270m-it-4bit/test_results.jsonl",
+  "metrics_file": "/Documents/slm-nes/aibox-nes-slms/data/processed/zero-shot-strict/gemma-3-270m-it-4bit/evaluation_metrics.json",
+  "elapsed_seconds": 183.056
+}

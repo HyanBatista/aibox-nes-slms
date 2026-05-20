@@ -1,0 +1,16 @@
+{
+  "total_samples": 370,
+  "valid_samples": 0,
+  "parsing_errors": 370,
+  "valid_output_rate": 0.0,
+  "competencies": {},
+  "overall": {},
+  "end_to_end": {
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "exact_match_rate": 0.0,
+    "off_by_one_rate": 0.0
+  }
+}

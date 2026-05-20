@@ -1,0 +1,228 @@
+{
+  "total_samples": 370,
+  "valid_samples": 19,
+  "parsing_errors": 351,
+  "valid_output_rate": 0.051351351351351354,
+  "competencies": {
+    "formal_register": {
+      "accuracy": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "exact_match_rate": 0.0,
+      "off_by_one_rate": 0.10526315789473684,
+      "end_to_end_accuracy": 0.0,
+      "end_to_end_precision": 0.0,
+      "end_to_end_recall": 0.0,
+      "end_to_end_f1_score": 0.0,
+      "end_to_end_exact_match_rate": 0.0,
+      "end_to_end_off_by_one_rate": 0.005405405405405406,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          15,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "thematic_coherence": {
+      "accuracy": 0.2631578947368421,
+      "precision": 0.06925207756232686,
+      "recall": 0.2631578947368421,
+      "f1_score": 0.10964912280701754,
+      "exact_match_rate": 0.2631578947368421,
+      "off_by_one_rate": 0.42105263157894735,
+      "end_to_end_accuracy": 0.013513513513513514,
+      "end_to_end_precision": 0.003556187766714082,
+      "end_to_end_recall": 0.013513513513513514,
+      "end_to_end_f1_score": 0.00563063063063063,
+      "end_to_end_exact_match_rate": 0.013513513513513514,
+      "end_to_end_off_by_one_rate": 0.021621621621621623,
+      "confusion_matrix": [
+        [
+          5,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          9,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "narrative_rhetorical_structure": {
+      "accuracy": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "exact_match_rate": 0.0,
+      "off_by_one_rate": 0.0,
+      "end_to_end_accuracy": 0.0,
+      "end_to_end_precision": 0.0,
+      "end_to_end_recall": 0.0,
+      "end_to_end_f1_score": 0.0,
+      "end_to_end_exact_match_rate": 0.0,
+      "end_to_end_off_by_one_rate": 0.0,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          15,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "cohesion": {
+      "accuracy": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "exact_match_rate": 0.0,
+      "off_by_one_rate": 0.15789473684210525,
+      "end_to_end_accuracy": 0.0,
+      "end_to_end_precision": 0.0,
+      "end_to_end_recall": 0.0,
+      "end_to_end_f1_score": 0.0,
+      "end_to_end_exact_match_rate": 0.0,
+      "end_to_end_off_by_one_rate": 0.008108108108108109,
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          14,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    }
+  },
+  "overall": {
+    "accuracy": 0.06578947368421052,
+    "precision": 0.004328254847645429,
+    "recall": 0.06578947368421052,
+    "f1_score": 0.00812215724496426,
+    "exact_match_rate": 0.06578947368421052,
+    "off_by_one_rate": 0.17105263157894737
+  },
+  "end_to_end": {
+    "accuracy": 0.0033783783783783786,
+    "precision": 0.00022226173541963013,
+    "recall": 0.0033783783783783786,
+    "f1_score": 0.0004170837504170837,
+    "exact_match_rate": 0.0033783783783783786,
+    "off_by_one_rate": 0.008783783783783784
+  }
+}

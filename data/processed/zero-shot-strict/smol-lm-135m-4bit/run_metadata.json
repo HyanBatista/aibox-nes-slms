@@ -1,0 +1,10 @@
+{
+  "mode": "zero-shot",
+  "prompt_mode": "strict",
+  "slug": "smol-lm-135m-4bit",
+  "model_id": "mlx-community/SmolLM-135M-4bit",
+  "test_samples_requested": 370,
+  "results_file": "/Documents/slm-nes/aibox-nes-slms/data/processed/zero-shot-strict/smol-lm-135m-4bit/test_results.jsonl",
+  "metrics_file": "/Documents/slm-nes/aibox-nes-slms/data/processed/zero-shot-strict/smol-lm-135m-4bit/evaluation_metrics.json",
+  "elapsed_seconds": 92.84
+}
